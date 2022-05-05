@@ -1,5 +1,8 @@
-# DevWeb
+# DevMob
 
+PA038TIN3 - PA - Projeto Aplicado à Eng. de Computação VII
+
+CP110TIN3 - Desenvolvimento de Aplicações para Mobile
 
 Gustavo de Freitas Ra:190511
 
