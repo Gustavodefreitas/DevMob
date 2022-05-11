@@ -1,12 +1,18 @@
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, ScrollView} from 'react-native';
+import ListItem from '../../components/ListItem';
+import { tatto } from '../../services/tattoo';
 
 export default function inicial() {
   return (
-    <View style={styles.container}>
-      <Text style={styles.text}>inicial</Text>
-      <StatusBar style="auto" />
-    </View>
+    <ScrollView style={styles.container}>
+      {
+        tatto.map(t=>(<ListItem key={t.id} name={t.name} fav={t.fav} id={t.id}>
+
+        </ListItem>))
+      }
+
+    </ScrollView>
   );
 }
 
@@ -14,8 +20,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#00ffff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    
+   
   },
   text:{
     fontSize:25,
