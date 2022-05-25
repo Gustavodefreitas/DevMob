@@ -32,5 +32,7 @@ Posteriormente será necessáriom instalar o expo dentro do emulador e iniciar o
 
 ![Imagem1](https://user-images.githubusercontent.com/70244513/170160916-d4811bbe-8d9c-416c-8a22-0c08d2fb00d2.jpg)
 ![Imagem2](https://user-images.githubusercontent.com/70244513/170161264-0e794df8-3e04-43d9-b70c-f4b8630af214.jpg)
+![Imagem3](https://user-images.githubusercontent.com/70244513/170161389-f64b1d74-bd44-4168-87ad-fe2db59bbe36.png)
+
 
 
