@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function perfil() {
+export default function Perfil() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>perfil</Text>

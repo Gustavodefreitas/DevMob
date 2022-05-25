@@ -2,21 +2,21 @@ import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 
 
-import favorito from './pages/favorito';
-import inical from './pages/inicial';
-import perfil from './pages/perfil';
+import Favorito from './pages/favorito';
+import Inicial from './pages/inicial';
+import Perfil from './pages/perfil';
 
 
 const Tab = createBottomTabNavigator();
 
 export default function Routes(){
     return(
-        <Tab.Navigator initialRouteName='inicial'>
-            <Tab.Screen name="favorito" component={favorito}/>
+        <Tab.Navigator initialRouteName='Inicial'>
+            <Tab.Screen name="Favorito" component={Favorito}/>
 
-            <Tab.Screen name="incial" component={inical}/>
+            <Tab.Screen name="Inicial" component={Inicial}/>
 
-            <Tab.Screen name="perfil" component={perfil}/>
+            <Tab.Screen name="Perfil" component={Perfil}/>
         </Tab.Navigator>
     );
 }
