@@ -31,6 +31,3 @@ Após isso, é necessário o usuário ter instalado um emulador de android ou um
 Posteriormente será necessáriom instalar o expo dentro do emulador e iniciar o projeto.
 
 
-
-![image](https://user-images.githubusercontent.com/70348893/170160022-75c02a2f-30eb-4dfc-a401-cc4a62757e67.png)
-
