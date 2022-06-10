@@ -20,11 +20,16 @@ O aplicativo será disponibilizado para qualquer usuário de Android ou IOS, a i
 O pagamento podera ser feito via PIX, dinheiro ou cartão de crédito para o profissional. Após a realização do trabalho, o usuário pode avaliar no aplicativo a atividade do profissional, gerando assim, um feedback de até 5 estrelas para o profissional cadastrado, onde futuros usuários podem checar antes de uma contratação.
 
 
-- Para que seja feita a instalação do nosso projeto será necessária a instalação do expoe do expo-navigation. 
-Posteriormente será necessário executar os seguintes comandos no prompt:
-- npm install @react-navigation/native console
-- npm install
+- Para que seja feita a instalação do projeto será necessária a instalação do NODE.JS e EXPO. E uma baixar um Emulador de sua preferência(utilizamos o BlueStacks) e fazer a instalação do EXPO GO dentro da sua loja de aplicativos.
+-Etapa 1 
+-Clonar o git
+-Etapa 2
+- Executar comando no console "npm install"
+- Executar comando no console "npm install @react-navigation/native"
+- Executar comando no console "expo install expo-font"
 - expo start
+- Epata 3
+- Será gerada uma url que será colocada dentro do emulador no aplicativo expo go 
 Será aberto um servidor no browser com a URL: http://localhost:19002/
 
 Após isso, é necessário o usuário ter instalado um emulador de android ou um mac para conseguir rodar em modo mobile. Recomendamos o bluestacks que é de fácil instalação.
