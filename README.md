@@ -30,7 +30,7 @@ Será aberto um servidor no browser com a URL: http://localhost:19002/
 Após isso, é necessário o usuário ter instalado um emulador de android ou um mac para conseguir rodar em modo mobile. Recomendamos o bluestacks que é de fácil instalação.
 Posteriormente será necessáriom instalar o expo dentro do emulador e iniciar o projeto.
 
-![Imagem1]((https://user-images.githubusercontent.com/70348893/173157964-824a0936-817b-4703-8c02-4b6ca0b27093.png)
+![Imagem1](https://user-images.githubusercontent.com/70348893/173157964-824a0936-817b-4703-8c02-4b6ca0b27093.png)
 ![Imagem2](https://user-images.githubusercontent.com/70348893/173158000-82911402-87d4-4333-8ad2-db6579acba7f.png)
 ![Imagem3](https://user-images.githubusercontent.com/70348893/173158074-f3f7e5d1-9234-4d1f-8ea7-5c6f4fe5d0f1.png)
 
