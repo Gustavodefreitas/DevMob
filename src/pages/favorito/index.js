@@ -24,7 +24,7 @@ export default function Favorito({ route }) {
 
   const renderFav = ({ item }) => {
     return (
-      <View style={styles.container}>
+      <View style={styles.container} >
         <Text style={styles.text}>{item.name}</Text>
         <Text style={styles.text}>{item.des}</Text>
       </View>
